@@ -1,2 +1,2 @@
 # l2-github-actions-AsmarHajizada
-l2-github-actions-AsmarHajizada created by GitHub Classroom
+Status badge about the workflow runs
